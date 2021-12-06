@@ -11,7 +11,7 @@ var cards = [
 		name: "General",
 		bookmarks: {
 			"google": "aaa",
-			"dirive": "aaa",
+			"drive": "aaa",
 			"maps": "aaa",
 			"photos": "aaa",
 			"mega": "aaa"
